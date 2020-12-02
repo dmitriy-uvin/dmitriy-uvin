@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+### I'm Dmitriy Uvin - Full Stack Developer
+
+#### My skills
+##### ⚡ Backend
+- PHP, Laravel
+- Node, Express.js
+
+##### ⚡ Frontend
+- HTML/CSS (SASS, LESS)
+- JavaScript, Vue.js
+- webpack, gulp
+
+##### ⚡ Additional
+- Git, Bitbucket
+- Docker, Elasticsearch
+- Nginx, Apache
+- VPS administration
+- UNIX-based systems (Ubuntu)
+- Unit testing (PHPUnit)
+- Websockets
+- Queues (Laravel)
+
 <!--
 **dmitriy-uvin/dmitriy-uvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
