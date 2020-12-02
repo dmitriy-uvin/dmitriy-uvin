@@ -2,7 +2,7 @@
 
 ### I'm Dmitriy Uvin - Full Stack Developer
 
-#### My tech skills:
+#### :computer: My tech skills:
 ##### ⚡ Backend
 - PHP, Laravel
 - Node, Express.js
