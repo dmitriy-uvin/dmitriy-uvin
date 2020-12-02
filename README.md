@@ -1,8 +1,8 @@
-### Hi there 👋
+### Welcome to my repository! 👋
 
 ### I'm Dmitriy Uvin - Full Stack Developer
 
-#### My skills
+#### My tech skills:
 ##### ⚡ Backend
 - PHP, Laravel
 - Node, Express.js
@@ -21,6 +21,16 @@
 - Unit testing (PHPUnit)
 - Websockets
 - Queues (Laravel)
+
+#### :man: My soft skills:
+- Persistent
+- Sharp-witted
+- Self-organized
+- Observant
+- Dreamer
+- Sporty
+- Reader
+
 <!--
 **dmitriy-uvin/dmitriy-uvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
