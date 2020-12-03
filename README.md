@@ -10,7 +10,11 @@
 ##### ⚡ Frontend
 - HTML/CSS (SASS, LESS)
 - JavaScript, Vue.js
-- webpack, gulp
+
+##### Another skills
+- Ability to build app architecture
+- Using Design Patterns
+- SOLID, DRY, KISS
 
 ##### ⚡ Additional
 - Git, Bitbucket
