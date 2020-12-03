@@ -3,15 +3,15 @@
 ### I'm Dmitriy Uvin - Full Stack Developer
 
 #### :computer: My tech skills:
-##### ⚡ Backend
+##### :brain: Backend
 - PHP, Laravel
 - Node, Express.js
 
-##### ⚡ Frontend
+##### :star: Frontend
 - HTML/CSS (SASS, LESS)
 - JavaScript, Vue.js
 
-##### Another skills
+##### :hammer: Another skills
 - Ability to build app architecture
 - Using Design Patterns
 - SOLID, DRY, KISS
