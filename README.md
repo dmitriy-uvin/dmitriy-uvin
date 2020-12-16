@@ -8,7 +8,7 @@
 - Node, Express.js
 
 ##### :star: Frontend
-- HTML/CSS (SASS, LESS)
+- HTML/CSS (SASS, SCSS)
 - JavaScript, Vue.js
 
 ##### :hammer: Another skills
