@@ -17,7 +17,7 @@
 - SOLID, DRY, KISS
 
 ##### ⚡ Additional
-- Git, Bitbucket
+- Git - GitHub, Bitbucket
 - Docker, Elasticsearch
 - Nginx, Apache
 - VPS administration
