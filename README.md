@@ -1,5 +1,5 @@
 ### Welcome to my repository! 👋
-
+<!--
 ### I'm Dmitriy Uvin - Full Stack Developer
 
 #### :computer: My tech skills:
@@ -35,7 +35,7 @@
 - Sporty
 - Reader
 
-<!--
+
 **dmitriy-uvin/dmitriy-uvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
