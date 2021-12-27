@@ -1,4 +1,6 @@
 ### Welcome to my repository! 👋
+
+I am well-rounded Web Developer with strong Backend skills and almost the same Frontend Skills!
 <!--
 ### I'm Dmitriy Uvin - Full Stack Developer
 
