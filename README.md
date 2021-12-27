@@ -2,7 +2,8 @@
 
 I am well-rounded Web Developer with strong Backend skills and almost the same Frontend Skills!
 
-[DM me if you need custom Web Solution!](mailto:dimauuvin@gmail.com)
+[E-mail me if you need custom Web Solution!](mailto:dimauuvin@gmail.com)
+[Telegram me if you need custom Web Solution!](https://t.me/dmitriyuvin)
 <!--
 ### I'm Dmitriy Uvin - Full Stack Developer
 
