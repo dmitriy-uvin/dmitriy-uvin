@@ -1,7 +1,32 @@
 ### Welcome to my repository! 👋
-<!--
-I am well-rounded Web Developer with strong Backend skills and almost the same Frontend Skills!
 
+I am well-rounded Web Developer with strong Backend skills and Frontend Skills!
+
+Projects:
+- Internal platoform for managing, analyzing documents with ML API.
+PHP, Laravel, Docker, Elasticsearch, MySQL, Vue.js
+
+- Platform for managing residential complex
+Node.js, Vue.js, MySQL, Docker
+
+
+Soft skills:
+- Problem solver
+- Proactivity
+- Sharp minded
+
+Backend skills:
+- PHP, Laravel
+- Node.js
+- SQL, NoSQL
+- Elasticsearch (Certification in progress)
+- AWS (Certification in progress)
+
+Frontend skills:
+- Vue.js
+- HTML, CSS
+
+<!--
 [E-mail me if you need custom Web Solution!](mailto:dimauuvin@gmail.com)<br>
 [Telegram me if you need custom Web Solution!](https://t.me/dmitriyuvin)
 
