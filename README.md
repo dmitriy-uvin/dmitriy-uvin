@@ -3,13 +3,13 @@
 I am well-rounded Web Developer with strong Backend skills and Frontend Skills!
 
 ### Completed projects by me and my team:
-- Internal platoform for managing, analyzing documents with ML API.
+- Internal platoform for managing, analyzing documents with ML API.<br>
 PHP, Laravel, Docker, Elasticsearch, MySQL, Vue.js
 
-- Platform for managing residential complex
+- Platform for managing residential complex.<br>
 Node.js, Vue.js, MySQL, Docker
 
-- Service for streamers
+- Service for streamers.<br>
 PHP, Laravel, Vue.js, Websockets, Integration with OBS
 Real time receiving donates, text to speech (donate's text), audio visualizer and cutter.
 
