@@ -2,7 +2,7 @@
 
 I am well-rounded Web Developer with strong Backend skills and Frontend Skills!
 
-Projects:
+### Completed projects by me and my team:
 - Internal platoform for managing, analyzing documents with ML API.
 PHP, Laravel, Docker, Elasticsearch, MySQL, Vue.js
 
@@ -10,19 +10,19 @@ PHP, Laravel, Docker, Elasticsearch, MySQL, Vue.js
 Node.js, Vue.js, MySQL, Docker
 
 
-Soft skills:
+#### Soft skills:
 - Problem solver
 - Proactivity
 - Sharp minded
 
-Backend skills:
+#### Backend skills:
 - PHP, Laravel
 - Node.js
 - SQL, NoSQL
 - Elasticsearch (Certification in progress)
 - AWS (Certification in progress)
 
-Frontend skills:
+#### Frontend skills:
 - Vue.js
 - HTML, CSS
 
