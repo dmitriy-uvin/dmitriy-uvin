@@ -9,6 +9,10 @@ PHP, Laravel, Docker, Elasticsearch, MySQL, Vue.js
 - Platform for managing residential complex
 Node.js, Vue.js, MySQL, Docker
 
+- Service for streamers
+PHP, Laravel, Vue.js, Websockets, Integration with OBS
+Real time receiving donates, text to speech (donate's text), audio visualizer and cutter.
+
 
 #### Soft skills:
 - Problem solver
