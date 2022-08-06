@@ -28,7 +28,9 @@ Real time receiving donates, text to speech (donate's text), audio visualizer an
 - AWS (Certification in progress)
 
 #### Frontend skills:
-- Vue.js
+- Vue.js, React.js
+- Vuex
+- Redux, Redux Toolkit
 - HTML, CSS
 
 <!--
