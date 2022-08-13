@@ -15,22 +15,17 @@ PHP, Laravel, Vue.js, Websockets, Integration with OBS
 Real time receiving donates, text to speech (donate's text), audio visualizer and cutter.
 -->
 
-#### Soft skills:
-- Problem solver
-- Proactivity
-- Sharp minded
-
 #### Backend skills:
 - PHP, Laravel
 - Node.js, TypeScript
 - SQL, NoSQL
-- Certificated Elasticsearch Engineer [Certificate here](https://certified.elastic.co/1666f93e-ed62-4be2-a3bf-77504f55f633)
-- AWS (Certification in progress)
+- Cache (Redis)
+- Queues (RabbitMQ)
+- [Certificated Elasticsearch Engineer](https://certified.elastic.co/1666f93e-ed62-4be2-a3bf-77504f55f633)
 
 #### Frontend skills:
 - Vue.js, React.js
-- Vuex
-- Redux, Redux Toolkit
+- Vuex, Redux
 - HTML, CSS
 
 <!--
