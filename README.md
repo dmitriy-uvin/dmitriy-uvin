@@ -1,6 +1,6 @@
 ### Welcome to my repository! 👋
 
-I am well-rounded Web Developer with strong Backend skills and Frontend Skills!
+I am well-rounded Web Developer with strong Backend and Frontend Skills!
 
 <!--
 ### Completed projects by me and my team:
