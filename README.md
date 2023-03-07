@@ -17,16 +17,17 @@ Real time receiving donates, text to speech (donate's text), audio visualizer an
 
 #### Backend skills:
 - PHP, Laravel
-- Node.js, TypeScript
+- Node.js, Nest.js, Express.js, Fastify
 - SQL, NoSQL
-- Cache (Redis)
+- Key Value DBs - Redis
 - Queues (RabbitMQ)
 - [Certificated Elasticsearch Engineer](https://certified.elastic.co/1666f93e-ed62-4be2-a3bf-77504f55f633)
 
 #### Frontend skills:
-- Vue.js, React.js
-- Vuex, Redux
-- HTML, CSS
+- React.js, Next.js
+- Redux
+- HTML, CSS, SASS
+- Tailwind CSS
 
 <!--
 [E-mail me if you need custom Web Solution!](mailto:dimauuvin@gmail.com)<br>
