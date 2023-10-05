@@ -1,7 +1,7 @@
 ### Welcome to my repository! 👋
 
 I am well-rounded Web Developer with strong Backend and Frontend Skills!
-
+[My Upwork profile](https://www.upwork.com/freelancers/dmytrouvin)
 <!--
 ### Completed projects by me and my team:
 - Internal platoform for managing, analyzing documents with ML API.<br>
@@ -14,6 +14,10 @@ Node.js, Vue.js, MySQL, Docker
 PHP, Laravel, Vue.js, Websockets, Integration with OBS
 Real time receiving donates, text to speech (donate's text), audio visualizer and cutter.
 -->
+
+### Services
+- Custom Web Development
+- Project Support
 
 #### Backend skills:
 - PHP, Laravel
