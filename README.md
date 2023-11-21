@@ -1,8 +1,6 @@
 ### Welcome to my repository! 👋
 
 I am well-rounded Web Developer with strong Backend and Frontend Skills!
-<br/>
-[My Upwork profile](https://www.upwork.com/freelancers/dmytrouvin)
 <!--
 ### Completed projects by me and my team:
 - Internal platoform for managing, analyzing documents with ML API.<br>
